@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path="DvdApi.json" />
+    <File Path="DvdApi_with_images.json" />
   </Folder>
 </Solution>
