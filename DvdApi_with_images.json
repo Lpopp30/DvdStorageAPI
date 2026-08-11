@@ -1,6 +1,68 @@
 {
   "Film": [
     {
+      "Titel": "Angela",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Anne fra Grønnebakken ",
+      "Franchise": "Anne fra Grønnebakken",
+      "Version": "DVD Box",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Anne fra Grønnebakken - The Continuing Story",
+      "Franchise": "Anne fra Grønnebakken",
+      "Version": "DVD Box",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Anne fra Grønnebakken - Fortsættelsen",
+      "Franchise": "Anne fra Grønnebakken",
+      "Version": "DVD Box",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Annie + Annie 2",
+      "Franchise": "Annie",
+      "Version": "DVD Box",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Antibody",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Apocalypse",
+      "Franchise": "Apocalypse",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Army of Darkness",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "The Art of War",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Austin Powers: The Spy Who Shagged Me",
+      "Franchise": "Austin Powers",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Australia",
+      "Franchise": "Australia",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
       "Titel": "Avengers",
       "Franchise": "Marvel",
       "Version": "Blu-ray",
@@ -22,33 +84,690 @@
       "Image": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX488_.jpg"
     },
     {
-      "Titel": "Iron Man 2",
-      "Franchise": "Marvel",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg"
+      "Titel": "The Bachelor",
+      "Franchise": "The Bachelor",
+      "Version": "DVD",
+      "Placering": "Kælder"
     },
     {
-      "Titel": "Iron Man 3",
-      "Franchise": "Marvel",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTkzMjEzMjY1M15BMl5BanBnXkFtZTcwNTMxOTYyOQ@@._V1_FMjpg_UX770_.jpg"
+      "Titel": "My Big Fat Greek Wedding",
+      "Franchise": "My Big Fat Greek Wedding",
+      "Version": "DVD",
+      "Placering": "Kælder"
     },
     {
-      "Titel": "Thor",
+      "Titel": "My Big Fat Greek Wedding 2",
+      "Franchise": "My Big Fat Greek Wedding",
+      "Version": "Blu-ray",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "My Fair Lady",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Mystery Men",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Murder Rooms",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Mænd der hader kvinder",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Nanny Diaries",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Narnia: Løven, heksen og garderobeskabet",
+      "Franchise": "Narnia",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Narnia: Prins Caspian",
+      "Franchise": "Narnia",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Nat Over Kreta",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "National Security",
+      "Version": "Blu-ray",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "National Treasure",
+      "Franchise": "National Treasure",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "National Treasure 2: Book of Secrets",
+      "Franchise": "National Treasure",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "NetForce",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Nettet 2.0",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Nattevagten / Nightwatch",
+      "Franchise": "Nattevagten",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Ninja Assassin",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "November Christmas",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "The Objective",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Musketeers",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Den sjette sans",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Sky Pirates",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Sympathy for Mr. Vengeance (Collector's Edition)",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Sleepy Hollow",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Smokin' Aces 2: Assassins' Ball",
+      "Franchise": "Smokin' Aces",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Thor: The Dark World",
       "Franchise": "Marvel",
       "Version": "Blu-ray",
       "Placering": "Kælder",
       "Image": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg"
     },
     {
-      "Titel": "Rogue One: A Star Wars Story",
+      "Titel": "High School Musical",
+      "Franchise": "High School Musical",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Happy Feet",
+      "Franchise": "Happy Feet",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Albert",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Hodja fra Pjort",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Fakiren fra Bilbao",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Gummi Tarzan",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Hannibal & Jerry",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Tempelriddernes Skat I - II - III",
+      "Version": "DVD Box",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Junglebogen",
+      "Franchise": "Disney / Junglebogen",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Junglebogen 2",
+      "Franchise": "Disney / Junglebogen",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Klokkeblomst og Feernes Hemmelighed",
+      "Franchise": "Disney / Klokkeblomst",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Klokkeblomst og Den Forsvundne Skat",
+      "Franchise": "Disney / Klokkeblomst",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Klokkeblomst",
+      "Franchise": "Disney / Klokkeblomst",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Kung Fu Panda",
+      "Franchise": "Kung Fu Panda",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Kung Fu Panda 2",
+      "Franchise": "Kung Fu Panda",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Legen om Vogterne: Uglerne fra Ga'Hoole",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Mary Poppins",
+      "Franchise": "Disney / Mary Poppins",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Lille Kylling",
+      "Franchise": "Disney",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Løvernes Konge",
+      "Franchise": "Disney / Løvernes Konge",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Madagascar",
+      "Franchise": "Madagascar",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Madagascar 2",
+      "Franchise": "Madagascar",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Madagascar 3: Efterlyst i hele Europa",
+      "Franchise": "Madagascar",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Madagascar Disco De Actividades",
+      "Franchise": "Madagascar",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Mads og Mikkel ",
+      "franchise": "Mads og Mikkel",
+      "Version": "DVD",
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/I/51H4v2S1f2M._AC_.jpg"
+    },
+    {
+      "Titel": "Mads og Mikkel 2",
+      "franchise": "Mads og Mikkel",
+      "Version": "DVD",
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/I/51H4v2S1f2M._AC_.jpg"
+    },
+    {
+      "Titel": "Mickeys Grønnemaskine",
+      "Franchise": "Disney / Mickey Mouse",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Mickeys Skøre Sommer",
+      "Franchise": "Disney / Mickey Mouse",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Modig / Brave",
+      "Version": "Blu-ray",
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_FMjpg_UX1013_.jpg"
+    },
+    {
+      "Titel": "Monsters, Inc.",
+      "Franchise": "Disney Pixar / Monsters ___",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Monsters University",
+      "Franchise": "Disney Pixar / Monsters ___",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Mulan",
+      "Franchise": "Disney",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Oliver & Co.",
+      "Franchise": "Disney",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Op (Up)",
+      "Franchise": "Disney Pixar",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Disco Ormene",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "The One",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Oliver Twist (The Charle Dickens Colletion / The Original BBC Edition)",
+      "Version": "DVD Box",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Tom Clancy's Op Center",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "The Order",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Outlander",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pandorum",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Passengers",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "The Patriot",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "The Patriot",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Payback",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Paycheck",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Sidste Nat på Station 13 (Assault on Precinct 13)",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Percy Jackson: Lyntyven",
+      "Franchise": "Percy Jackson",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Percy Jackson: Lyncirklen / Lightning Thief",
+      "Franchise": "Percy Jackson",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Percy Jackson: Sea of Monsters",
+      "Franchise": "Percy Jackson",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "The Phantom of the Opera",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Philadelphia Eksperimentet",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pistoleros",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pigen der legede med ilden",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pirates of the Caribbean: Den Sorte Forbandelse",
+      "Franchise": "Pirates of the Caribbean",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pirates of the Caribbean: Død Mands Kiste",
+      "Franchise": "Pirates of the Caribbean",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pirates of the Caribbean: Ved Verdens Ende",
+      "Franchise": "Pirates of the Caribbean",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pirates of the Caribbean: I Ukendt Farvand",
+      "Franchise": "Pirates of the Caribbean",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Pitch Black",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Poseidon",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Precious Find",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Predators",
+      "Franchise": "Predator",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Karla",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Otto er et næsehorn",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Journey 2: The Mysterious Island",
+      "Franchise": "Journey",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "The Karate Kid",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Min Søsters Børn",
+      "Franchise": "Min Søsters Børn",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Min Søsters Børn i Sneen",
+      "Franchise": "Min Søsters Børn",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Min Søsters Børn i Ægypten",
+      "Franchise": "Min Søsters Børn",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Nanny McPhee",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Nat på Museet",
+      "Franchise": "Nat på Museet",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Nat på Museet 2",
+      "Franchise": "Nat på Museet",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Sandtrolden",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Avatar: Bog 1 Vand",
+      "Franchise": "Avatar: Den sidste luftbetvinger",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Hotel Transylvania 2",
+      "Franchise": "Hotel Transylvania",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Happy Feet 2",
+      "Version": "Blu-ray",
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/M/MV5BY2Y5ZjcyMjQtNGM3Ny00ZTJiLTg4OGItZmNhMzQ4MGE4NjVkXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg"
+    },
+    {
+      "Titel": "Smølferne / Smurfs",
+      "Franchise": "Smølferne",
+      "Version": "Blu-ray",
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/I/81D8M5P-2YL._AC_SL1500_.jpg"
+    },
+    {
+      "Titel": "Smølferne 2",
+      "Franchise": "Smølferne",
+      "Version": "Blu-ray",
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/I/81G-nE02yLL._AC_SL1500_.jpg"
+    },
+    {
+      "Titel": "Star Wars: The Clone Wars",
       "Franchise": "Star Wars",
       "Version": "Blu-ray",
       "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_FMjpg_UX864_.jpg"
+      "Image": "https://m.media-amazon.com/images/M/MV5BOTdiODQ1MDYtZjM5My00MmQ5LTk1ZWUtZWIwYjBhZGMxZDAyXkEyXkFqcGc@._V1_FMjpg_UY1920_.jpg"
     },
+    {
+      "Titel": "Step Up Revolution",
+      "Version": "Blu-ray",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Troldmandens Lærling",
+      "Franchise": "Disney",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie som Svanesøen (3)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie som Rapunzel (2)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie i Nøddeknækkeren (1)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie: Prinsessen og Tiggerpigen (4)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie: Fairytopia (5)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie: Mermaidia (7)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie: Regnbuens Magi (9)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie som Prinsessen på Øen (10)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie Tommelise (13)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+    {
+      "Titel": "Barbie et Modeeventyr (16)",
+      "Franchise": "Barbie",
+      "Version": "DVD",
+      "Placering": "Sort Reol"
+    },
+
+
+
+
+
+    //{
+    //  "Titel": "Iron Man 2",
+    //  "Franchise": "Marvel",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg"
+    //},
+    //{
+    //  "Titel": "Iron Man 3",
+    //  "Franchise": "Marvel",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTkzMjEzMjY1M15BMl5BanBnXkFtZTcwNTMxOTYyOQ@@._V1_FMjpg_UX770_.jpg"
+    //},
+
+    //{
+    //  "Titel": "Rogue One: A Star Wars Story",
+    //  "Franchise": "Star Wars",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_FMjpg_UX864_.jpg"
+    //},
     {
       "Titel": "Avatar",
       "Version": "Blu-ray",
@@ -61,276 +780,245 @@
       "Placering": "Kælder",
       "Image": "https://m.media-amazon.com/images/M/MV5BMDcxODQ3ZWEtNWYxYS00OGI5LWIyM2QtNmJhMGM2MmJkNWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
-    {
-      "Titel": "The Bourne Identity",
-      "Franchise": "Bourne",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-    },
-    {
-      "Titel": "The Bourne Supremacy",
-      "Franchise": "Bourne",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BZTU4ZDgyYjgtODA0Mi00MmE3LTgzYWQtZjc1YTFiMTczZTQ3XkEyXkFqcGc@._V1_FMjpg_UX1014_.jpg"
-    },
-    {
-      "Titel": "The Bourne Ultimatum",
-      "Franchise": "Bourne",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BYzE3ZGM4MzctZjU5MC00NWE2LTg5ZjYtMDFiM2ZlMWQ1MjkwXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
-    },
-    {
-      "Titel": "Inception",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX700_.jpg"
-    },
-    {
-      "Titel": "Independence Day",
-      "Franchise": "Independence Day",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_FMjpg_UX768_.jpg"
-    },
-    {
-      "Titel": "Independence Day: Resurgence",
-      "Franchise": "Independence Day",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_FMjpg_UX1012_.jpg"
-    },
-    {
-      "Titel": "Iron Sky",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1_FMjpg_UX649_.jpg"
-    },
-    {
-      "Titel": "Jupiter Ascending",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@._V1_FMjpg_UX921_.jpg"
-    },
-    {
-      "Titel": "Jumper",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMWQ3NjA3NTYtNDJiYi00ZTE0LWFmNzMtZjc0NTUxNjk2YTFkXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg"
-    },
-    {
-      "Titel": "Jurassic Park",
-      "Franchise": "Jurassic Park",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX667_.jpg"
-    },
-    {
-      "Titel": "La La Land",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMDllYjliOTUtMDJjZC00ODIzLWJmNGMtOWI2NzQxMjA2NzdlXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
-    },
-    {
-      "Titel": "The Matrix",
-      "Franchise": "The Matrix Collection",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://image.tmdb.org/t/p/w500/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg"
-    },
-    {
-      "Titel": "The Matrix Reloaded",
-      "Franchise": "The Matrix Collection",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://image.tmdb.org/t/p/w500/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg"
-    },
-    {
-      "Titel": "The Matrix Revolutions",
-      "Franchise": "The Matrix Collection",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://image.tmdb.org/t/p/w500/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg"
-    },
+    //{
+    //  "Titel": "The Bourne Identity",
+    //  "Franchise": "Bourne",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    //},
+    //{
+    //  "Titel": "The Bourne Supremacy",
+    //  "Franchise": "Bourne",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BZTU4ZDgyYjgtODA0Mi00MmE3LTgzYWQtZjc1YTFiMTczZTQ3XkEyXkFqcGc@._V1_FMjpg_UX1014_.jpg"
+    //},
+    //{
+    //  "Titel": "The Bourne Ultimatum",
+    //  "Franchise": "Bourne",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BYzE3ZGM4MzctZjU5MC00NWE2LTg5ZjYtMDFiM2ZlMWQ1MjkwXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
+    //},
+    //{
+    //  "Titel": "Inception",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX700_.jpg"
+    //},
+    //{
+    //  "Titel": "Independence Day",
+    //  "Franchise": "Independence Day",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_FMjpg_UX768_.jpg"
+    //},
+    //{
+    //  "Titel": "Independence Day: Resurgence",
+    //  "Franchise": "Independence Day",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_FMjpg_UX1012_.jpg"
+    //},
+    //{
+    //  "Titel": "Iron Sky",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1_FMjpg_UX649_.jpg"
+    //},
+    //{
+    //  "Titel": "Jupiter Ascending",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@._V1_FMjpg_UX921_.jpg"
+    //},
+    //{
+    //  "Titel": "Jumper",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMWQ3NjA3NTYtNDJiYi00ZTE0LWFmNzMtZjc0NTUxNjk2YTFkXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg"
+    //},
+    //{
+    //  "Titel": "Jurassic Park",
+    //  "Franchise": "Jurassic Park",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX667_.jpg"
+    //},
+    //{
+    //  "Titel": "La La Land",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMDllYjliOTUtMDJjZC00ODIzLWJmNGMtOWI2NzQxMjA2NzdlXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
+    //},
+    //{
+    //  "Titel": "The Matrix",
+    //  "Franchise": "The Matrix Collection",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://image.tmdb.org/t/p/w500/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg"
+    //},
+    //{
+    //  "Titel": "The Matrix Reloaded",
+    //  "Franchise": "The Matrix Collection",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://image.tmdb.org/t/p/w500/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg"
+    //},
+    //{
+    //  "Titel": "The Matrix Revolutions",
+    //  "Franchise": "The Matrix Collection",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://image.tmdb.org/t/p/w500/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg"
+    //},
     {
       "Titel": "Oblivion",
       "Version": "Blu-ray",
       "Placering": "Kælder",
       "Image": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_FMjpg_UX1000_.jpg"
     },
+    //{
+    //  "Titel": "Red 2",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_FMjpg_UY2048_.jpg"
+    //},
+    //{
+    //  "Titel": "San Andreas",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BYmQzNDEzMzMtM2U5OS00YTUzLWI2NDYtYjI2NjAyNWE5YzMzXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
+    //},
+    //{
+    //  "Titel": "The Accountant",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_FMjpg_UY2048_.jpg"
+    //},
+    //{
+    //  "Titel": "Underworld: Awakening",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX983_.jpg"
+    //},
+    //{
+    //  "Titel": "Alvin og De Frække Jordegern 2",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/520/684/1460166657-b967cce708dabcd41d686672441fb14ae51b4e0d_DK.jpg?width=400&height=600"
+    //},
+    //{
+    //  "Titel": "De Utrolige",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UY2666_.jpg"
+    //},
+    //{
+    //  "Titel": "Dumbo",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_FMjpg_UX1013_.jpg"
+    //},
+    //{
+    //  "Titel": "Frost / Frozen",
+    //  "Franchise": "Frozen",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_FMjpg_UY2048_.jpg"
+    //},
+    //{
+    //  "Titel": "Frost II / Frozen II",
+    //  "Franchise": "Frozen",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BZTE1YjlmZjctNjIwNi00NDQ0LTlmMzgtYWZkY2RkZTMwNTdmXkEyXkFqcGc@._V1_FMjpg_UY6000_.jpg"
+    //},
+    //{
+    //  "Titel": "Find Nemo",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_FMjpg_UX485_.jpg"
+    //},
+    //{
+    //  "Titel": "G-Force",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTM4NTY3MzY2MV5BMl5BanBnXkFtZTcwMDQ1NTM2Mg@@._V1_FMjpg_UX500_.jpg"
+    //},
+
+    //{
+    //  "Titel": "Inderst Inne / Inside Out",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_FMjpg_UX1086_.jpg"
+    //},
+
+    //{
+    //  "Titel": "28 Dage Senere / 28 Days Later",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BYTU3MDQxN2EtNjI5ZC00NDAyLTgwMTctODgxYjRlNWFmOGQyXkEyXkFqcGc@._V1_FMjpg_UX1066_.jpg"
+    //},
+    //{
+    //  "Titel": "28 Uger Senere / 28 Weeks Later",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTUxMjc2MTcxNV5BMl5BanBnXkFtZTcwMzgzOTY0MQ@@._V1_FMjpg_UX510_.jpg"
+    //},
+    //{
+    //  "Titel": "Alien",
+    //  "Franchise": "Alien",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    //},
+    //{
+    //  "Titel": "Aliens",
+    //  "Franchise": "Alien",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    //},
+    //{
+    //  "Titel": "Alien 3",
+    //  "Franchise": "Alien",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    //},
+    //{
+    //  "Titel": "Alien Resurrection",
+    //  "Franchise": "Alien",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    //},
+    //{
+    //  "Titel": "Alien vs. Predator",
+    //  "Franchise": "Alien",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_FMjpg_UX485_.jpg"
+    //},
+    //{
+    //  "Titel": "American Gangster",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    //},
+    //{
+    //  "Titel": "Angles & Demons / Engle og Dæmoner",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjEzNzM2MjgxMF5BMl5BanBnXkFtZTcwNTQ1MTM0Mg@@._V1_FMjpg_UX963_.jpg"
+    //},
     {
-      "Titel": "Red 2",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_FMjpg_UY2048_.jpg"
-    },
-    {
-      "Titel": "San Andreas",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BYmQzNDEzMzMtM2U5OS00YTUzLWI2NDYtYjI2NjAyNWE5YzMzXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
-    },
-    {
-      "Titel": "The Accountant",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_FMjpg_UY2048_.jpg"
-    },
-    {
-      "Titel": "Underworld: Awakening",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX983_.jpg"
-    },
-    {
-      "Titel": "Alvin og De Frække Jordegern 2",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/520/684/1460166657-b967cce708dabcd41d686672441fb14ae51b4e0d_DK.jpg?width=400&height=600"
-    },
-    {
-      "Titel": "De Utrolige",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UY2666_.jpg"
-    },
-    {
-      "Titel": "Dumbo",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_FMjpg_UX1013_.jpg"
-    },
-    {
-      "Titel": "Frost / Frozen",
-      "Franchise": "Frozen",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_FMjpg_UY2048_.jpg"
-    },
-    {
-      "Titel": "Frost II / Frozen II",
-      "Franchise": "Frozen",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BZTE1YjlmZjctNjIwNi00NDQ0LTlmMzgtYWZkY2RkZTMwNTdmXkEyXkFqcGc@._V1_FMjpg_UY6000_.jpg"
-    },
-    {
-      "Titel": "Find Nemo",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_FMjpg_UX485_.jpg"
-    },
-    {
-      "Titel": "G-Force",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTM4NTY3MzY2MV5BMl5BanBnXkFtZTcwMDQ1NTM2Mg@@._V1_FMjpg_UX500_.jpg"
-    },
-    {
-      "Titel": "Happy Feet 2",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BY2Y5ZjcyMjQtNGM3Ny00ZTJiLTg4OGItZmNhMzQ4MGE4NjVkXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg"
-    },
-    {
-      "Titel": "Inderst Inne / Inside Out",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_FMjpg_UX1086_.jpg"
-    },
-    {
-      "Titel": "Løvernes Konge",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_FMjpg_UY2964_.jpg"
-    },
-    {
-      "Titel": "Modig / Brave",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_FMjpg_UX1013_.jpg"
-    },
-    {
-      "Titel": "Star Wars: The Clone Wars",
-      "Franchise": "Star Wars",
-      "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BOTdiODQ1MDYtZjM5My00MmQ5LTk1ZWUtZWIwYjBhZGMxZDAyXkEyXkFqcGc@._V1_FMjpg_UY1920_.jpg"
-    },
-    {
-      "Titel": "28 Dage Senere / 28 Days Later",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BYTU3MDQxN2EtNjI5ZC00NDAyLTgwMTctODgxYjRlNWFmOGQyXkEyXkFqcGc@._V1_FMjpg_UX1066_.jpg"
-    },
-    {
-      "Titel": "28 Uger Senere / 28 Weeks Later",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTUxMjc2MTcxNV5BMl5BanBnXkFtZTcwMzgzOTY0MQ@@._V1_FMjpg_UX510_.jpg"
-    },
-    {
-      "Titel": "Alien",
-      "Franchise": "Alien",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-    {
-      "Titel": "Aliens",
-      "Franchise": "Alien",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-    {
-      "Titel": "Alien 3",
-      "Franchise": "Alien",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-    {
-      "Titel": "Alien Resurrection",
-      "Franchise": "Alien",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-    {
-      "Titel": "Alien vs. Predator",
-      "Franchise": "Alien",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_FMjpg_UX485_.jpg"
-    },
-    {
-      "Titel": "American Gangster",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-    },
-    {
-      "Titel": "Angles & Demons / Engle og Dæmoner",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjEzNzM2MjgxMF5BMl5BanBnXkFtZTcwNTQ1MTM0Mg@@._V1_FMjpg_UX963_.jpg"
-    },
-    {
-      "Titel": "Bad Boys I",
+      "Titel": "Bad Boys I & II (30th Anniversary Collection)",
       "Franchise": "Bad Boys",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg"
-    },
-    {
-      "Titel": "Bad Boys II",
-      "Franchise": "Bad Boys",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg"
+      "Version": "Blu-ray",
+      "Placering": "Kælder"
     },
     {
       "Titel": "Bad Company",
@@ -358,419 +1046,399 @@
       "Placering": "Kælder",
       "Image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UY2048_.jpg"
     },
-    {
-      "Titel": "The Blind Side",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1_FMjpg_UX705_.jpg"
-    },
-    {
-      "Titel": "Blade",
-      "Franchise": "Blade",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UY2973_.jpg"
-    },
-    {
-      "Titel": "Blade II",
-      "Franchise": "Blade",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UY2973_.jpg"
-    },
-    {
-      "Titel": "Blade Trinity",
-      "Franchise": "Blade",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UY2973_.jpg"
-    },
-    {
-      "Titel": "Blood Money",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTk3MDIxOTgzMV5BMl5BanBnXkFtZTYwMTU4NjY5._V1_FMjpg_UX275_.jpg"
-    },
-    {
-      "Titel": "Body of Lies",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTgzOTY3MTM0OV5BMl5BanBnXkFtZTcwNjc5MTI5MQ@@._V1_FMjpg_UX810_.jpg"
-    },
-    {
-      "Titel": "The Book of Eli",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BZjk4N2U2YTAtNWEzZC00N2VmLTlkNDctMjg5YjI4OTExZTFhXkEyXkFqcGc@._V1_FMjpg_UY1920_.jpg"
-    },
-    {
-      "Titel": "The Bourne Legacy",
-      "Franchise": "Bourne",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_FMjpg_UY2048_.jpg"
-    },
-    {
-      "Titel": "Casino Royale 007",
-      "Franchise": "James Bond",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-    },
-    {
-      "Titel": "Con Air",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg"
-    },
-    {
-      "Titel": "Congo",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BOTc0MmM1MmMtYTI0Yi00YzJlLTg4MjctNjBlOGQ4NGJjZTNmXkEyXkFqcGc@._V1_FMjpg_UX580_.jpg"
-    },
-    {
-      "Titel": "Constantine",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjNhNTlmYmYtYjcxZi00ZDU1LTkxMWYtYzFlMWMzY2RiODM1XkEyXkFqcGc@._V1_FMjpg_UY2910_.jpg"
-    },
-    {
-      "Titel": "The Core",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_FMjpg_UX485_.jpg"
-    },
-    {
-      "Titel": "The Da Vinci Code / Da Vinci Mysteriet",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_FMjpg_UY2048_.jpg"
-    },
-    {
-      "Titel": "The Day After Tomorrow",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_FMjpg_UY1955_.jpg"
-    },
-    {
-      "Titel": "Death Race",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BZjdlNmJjM2ItYjkwOS00NDMxLWFjM2QtNzcyZjJkYzEzYzQ5XkEyXkFqcGc@._V1_FMjpg_UX550_.jpg"
-    },
-    {
-      "Titel": "Déjà Vu",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_FMjpg_UX367_.jpg"
-    },
-    {
-      "Titel": "District 9",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_FMjpg_UX973_.jpg"
-    },
-    {
-      "Titel": "Divergent",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_FMjpg_UY2048_.jpg"
-    },
-    {
-      "Titel": "Doomsday",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/M/MV5BMTUwODU2NzE2OF5BMl5BanBnXkFtZTcwMTAwMDA2MQ@@._V1_FMjpg_UX810_.jpg"
-    },
-    {
-      "Titel": "Dragon Hunter",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51P7v+0k1kL._AC_.jpg"
-    },
-    {
-      "Titel": "Dungeons & Dragons",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51k4A5L2SML._AC_.jpg"
-    },
-    {
-      "Titel": "Eagle Eye",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H8g6zR8TL._AC_.jpg"
-    },
-    {
-      "Titel": "Eastern Promises",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51v6Y1X5xUL._AC_.jpg"
-    },
-    {
-      "Titel": "Edge of Tomorrow",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51c+T7s8bIL._AC_.jpg"
-    },
-    {
-      "Titel": "El Dorado",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51kM35p78TL._AC_.jpg"
-    },
-    {
-      "Titel": "Elektra",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M3a88K4jL._AC_.jpg"
-    },
-    {
-      "Titel": "Enemy of the State",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A3B8G4iSL._AC_.jpg"
-    },
-    {
-      "Titel": "The Eye",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51B4gA522LL._AC_.jpg"
-    },
-    {
-      "Titel": "Furious 7)",
-      "Franchise": "Fast & Furious",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51L3s+S423L._AC_.jpg"
-    },
-    {
-      "Titel": "Fast & Furious 6",
-      "Franchise": "Fast & Furious",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51L3s+S423L._AC_.jpg"
-    },
-    {
-      "Titel": "Final Fantasy",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M4A2H8TGL._AC_.jpg"
-    },
-    {
-      "Titel": "Firewall",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51S3gA23F2L._AC_.jpg"
-    },
-    {
-      "Titel": "Flightplan",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A1g4B2U3L._AC_.jpg"
-    },
-    {
-      "Titel": "Fracture",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51N2A4S4xLL._AC_.jpg"
-    },
-    {
-      "Titel": "G.I. Joe: The Rise of Cobra",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H3s4F3KLL._AC_.jpg"
-    },
-    {
-      "Titel": "Green Lantern",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K3A5M2bLL._AC_.jpg"
-    },
-    {
-      "Titel": "Hannibal",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51B3v58S0LL._AC_.jpg"
-    },
-    {
-      "Titel": "Hellboy",
-      "Franchise": "Hellboy",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M8v34D7SL._AC_.jpg"
-    },
-    {
-      "Titel": "Hellboy II: Golden Army",
-      "Franchise": "Hellboy",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M8v34D7SL._AC_.jpg"
-    },
-    {
-      "Titel": "Hitman (Unrated)",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51v1y42M8SL._AC_.jpg"
-    },
-    {
-      "Titel": "The Hitchhiker's Guide to the Galaxy",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51N3y2K1G2L._AC_.jpg"
-    },
-    {
-      "Titel": "I, Robot",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51k3sF25gGL._AC_.jpg"
-    },
-    {
-      "Titel": "Inglourious Basterds",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51v4sS2N8SL._AC_.jpg"
-    },
-    {
-      "Titel": "Inside Man",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H3v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "The Island",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K2v8S2uLL._AC_.jpg"
-    },
-    {
-      "Titel": "JCVD",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M1y2S3g2L._AC_.jpg"
-    },
-    {
-      "Titel": "John Wick",
-      "Franchise": "John Wick",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A2v9S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Judge Dredd",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H3v2K1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Kill Bill Vol. 1",
-      "Franchise": "Kill Bill",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K3v2S1g2L._AC_.jpg"
-    },
-    {
-      "Titel": "Kill Bill Vol. 2",
-      "Franchise": "Kill Bill",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K3v2S1g2L._AC_.jpg"
-    },
-    {
-      "Titel": "Kingdom of Heaven",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M3v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Limitless",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A3v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Lost in Translation",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "The Lord of the Rings: Fellowship of the Ring",
-      "Franchise": "The Lord of the Rings",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K1v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "The Lord of the Rings: Two Towers",
-      "Franchise": "The Lord of the Rings",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M2v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "The Lord of the Rings: Return of the King",
-      "Franchise": "The Lord of the Rings",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A1v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Max Payne",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H1v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Me, Myself & Irene",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K0v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Meet the Parents",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M0v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Men in Black / MIIB",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A0v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Minority Report",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H9v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Mission to Mars",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K9v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "National Treasure 1",
-      "Franchise": "National Treasure",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M9v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "National Treasure 2",
-      "Franchise": "National Treasure",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M9v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "The Objective",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A8v2S1f2L._AC_.jpg"
-    },
+    //{
+    //  "Titel": "The Blind Side",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1_FMjpg_UX705_.jpg"
+    //},
+    //{
+    //  "Titel": "Blade",
+    //  "Franchise": "Blade",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UY2973_.jpg"
+    //},
+    //{
+    //  "Titel": "Blade II",
+    //  "Franchise": "Blade",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UY2973_.jpg"
+    //},
+    //{
+    //  "Titel": "Blade Trinity",
+    //  "Franchise": "Blade",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UY2973_.jpg"
+    //},
+    //{
+    //  "Titel": "Blood Money",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTk3MDIxOTgzMV5BMl5BanBnXkFtZTYwMTU4NjY5._V1_FMjpg_UX275_.jpg"
+    //},
+    //{
+    //  "Titel": "Body of Lies",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTgzOTY3MTM0OV5BMl5BanBnXkFtZTcwNjc5MTI5MQ@@._V1_FMjpg_UX810_.jpg"
+    //},
+    //{
+    //  "Titel": "The Book of Eli",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BZjk4N2U2YTAtNWEzZC00N2VmLTlkNDctMjg5YjI4OTExZTFhXkEyXkFqcGc@._V1_FMjpg_UY1920_.jpg"
+    //},
+    //{
+    //  "Titel": "The Bourne Legacy",
+    //  "Franchise": "Bourne",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_FMjpg_UY2048_.jpg"
+    //},
+    //{
+    //  "Titel": "Casino Royale 007",
+    //  "Franchise": "James Bond",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    //},
+    //{
+    //  "Titel": "Con Air",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg"
+    //},
+    //{
+    //  "Titel": "Congo",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BOTc0MmM1MmMtYTI0Yi00YzJlLTg4MjctNjBlOGQ4NGJjZTNmXkEyXkFqcGc@._V1_FMjpg_UX580_.jpg"
+    //},
+    //{
+    //  "Titel": "Constantine",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjNhNTlmYmYtYjcxZi00ZDU1LTkxMWYtYzFlMWMzY2RiODM1XkEyXkFqcGc@._V1_FMjpg_UY2910_.jpg"
+    //},
+    //{
+    //  "Titel": "The Core",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_FMjpg_UX485_.jpg"
+    //},
+    //{
+    //  "Titel": "The Da Vinci Code / Da Vinci Mysteriet",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_FMjpg_UY2048_.jpg"
+    //},
+    //{
+    //  "Titel": "The Day After Tomorrow",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_FMjpg_UY1955_.jpg"
+    //},
+    //{
+    //  "Titel": "Death Race",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BZjdlNmJjM2ItYjkwOS00NDMxLWFjM2QtNzcyZjJkYzEzYzQ5XkEyXkFqcGc@._V1_FMjpg_UX550_.jpg"
+    //},
+    //{
+    //  "Titel": "Déjà Vu",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_FMjpg_UX367_.jpg"
+    //},
+    //{
+    //  "Titel": "District 9",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_FMjpg_UX973_.jpg"
+    //},
+    //{
+    //  "Titel": "Divergent",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_FMjpg_UY2048_.jpg"
+    //},
+    //{
+    //  "Titel": "Doomsday",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/M/MV5BMTUwODU2NzE2OF5BMl5BanBnXkFtZTcwMTAwMDA2MQ@@._V1_FMjpg_UX810_.jpg"
+    //},
+    //{
+    //  "Titel": "Dragon Hunter",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51P7v+0k1kL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Dungeons & Dragons",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51k4A5L2SML._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Eagle Eye",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H8g6zR8TL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Eastern Promises",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51v6Y1X5xUL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Edge of Tomorrow",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51c+T7s8bIL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "El Dorado",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51kM35p78TL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Elektra",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M3a88K4jL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Enemy of the State",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A3B8G4iSL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Eye",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51B4gA522LL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Furious 7)",
+    //  "Franchise": "Fast & Furious",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51L3s+S423L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Fast & Furious 6",
+    //  "Franchise": "Fast & Furious",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51L3s+S423L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Final Fantasy",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M4A2H8TGL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Firewall",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51S3gA23F2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Flightplan",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A1g4B2U3L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Fracture",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51N2A4S4xLL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "G.I. Joe: The Rise of Cobra",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H3s4F3KLL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Green Lantern",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K3A5M2bLL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Hannibal",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51B3v58S0LL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Hellboy",
+    //  "Franchise": "Hellboy",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M8v34D7SL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Hellboy II: Golden Army",
+    //  "Franchise": "Hellboy",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M8v34D7SL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Hitman (Unrated)",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51v1y42M8SL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Hitchhiker's Guide to the Galaxy",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51N3y2K1G2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "I, Robot",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51k3sF25gGL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Inglourious Basterds",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51v4sS2N8SL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Inside Man",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H3v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Island",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K2v8S2uLL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "JCVD",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M1y2S3g2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "John Wick",
+    //  "Franchise": "John Wick",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A2v9S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Judge Dredd",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H3v2K1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Kill Bill Vol. 1",
+    //  "Franchise": "Kill Bill",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K3v2S1g2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Kill Bill Vol. 2",
+    //  "Franchise": "Kill Bill",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K3v2S1g2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Kingdom of Heaven",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M3v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Limitless",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A3v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Lost in Translation",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Lord of the Rings: Fellowship of the Ring",
+    //  "Franchise": "The Lord of the Rings",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K1v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Lord of the Rings: Two Towers",
+    //  "Franchise": "The Lord of the Rings",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M2v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Lord of the Rings: Return of the King",
+    //  "Franchise": "The Lord of the Rings",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A1v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Max Payne",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H1v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Me, Myself & Irene",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K0v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Meet the Parents",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M0v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Men in Black / MIIB",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A0v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Minority Report",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H9v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Mission to Mars",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K9v2S1f2L._AC_.jpg"
+    //},
     {
       "Titel": "Ocean's Eleven",
       "Franchise": "Ocean's __",
@@ -792,619 +1460,1426 @@
       "Placering": "Kælder",
       "Image": "https://m.media-amazon.com/images/I/51H8v2S1f2L._AC_.jpg"
     },
-    {
-      "Titel": "Paycheck",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K8v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Percy Jackson: Ljonlynet / Monsterhavet",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M8v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Pitch Black",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A7v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Predators / Predator",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H7v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Prometheus",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K7v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "The Punisher",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M7v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Pulp Fiction",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A6v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "RED",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H6v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Red Planet",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K6v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Resident Evil Apocalypse",
-      "Franchise": "Resident Evil",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Resident Evil Extinction",
-      "Franchise": "Resident Evil",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Resident Evil Afterlife",
-      "Franchise": "Resident Evil",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Robin Hood",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A5v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "The Rock",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H5v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "S.W.A.T.",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K5v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Safe House",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M5v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Saving Private Ryan",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A4v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Schindler's List",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H4v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Sherlock Holmes / Game of Shadows",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K4v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Skyfall 007 ",
-      "Franchise": "James Bond",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Spectre 007",
-      "Franchise": "James Bond",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "Quantum of Solace",
-      "Franchise": "James Bond",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2L._AC_.jpg"
-    },
-    {
-      "Titel": "24 Timer i Istanbul",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A3v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "3096 Dage",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H3v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "Anja & Viktor / Kærlighed ved første spark m.fl.",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K3v2S1f2M._AC_.jpg"
-    },
+    //{
+    //  "Titel": "Prometheus",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K7v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Punisher",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M7v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Pulp Fiction",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A6v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "RED",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H6v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Red Planet",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K6v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Resident Evil Apocalypse",
+    //  "Franchise": "Resident Evil",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Resident Evil Extinction",
+    //  "Franchise": "Resident Evil",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Resident Evil Afterlife",
+    //  "Franchise": "Resident Evil",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Robin Hood",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A5v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "The Rocketman",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H5v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "S.W.A.T.",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K5v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Safe House",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M5v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Saving Private Ryan",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A4v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Schindler's List",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H4v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Sherlock Holmes / Game of Shadows",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K4v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Skyfall 007 ",
+    //  "Franchise": "James Bond",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Spectre 007",
+    //  "Franchise": "James Bond",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Quantum of Solace",
+    //  "Franchise": "James Bond",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "24 Timer i Istanbul",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A3v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "3096 Dage",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H3v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Anja & Viktor / Kærlighed ved første spark m.fl.",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K3v2S1f2M._AC_.jpg"
+    //},
     {
       "Titel": "Den Sidste Hilsen",
       "Version": "DVD",
       "Placering": "Kælder",
       "Image": "https://m.media-amazon.com/images/I/51M3v2S1f2M._AC_.jpg"
     },
-    {
-      "Titel": "Ditte & Louise",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A2v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "Fluerne på væggen",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "Frakkerne End Politiet Tillader",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K2v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "Frygten er mit våben",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M2v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "Guldkornene",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A1v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "Hamilton 1",
-      "Franchise": "Hamilton",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H1v2S1f2M._AC_.jpg"
-    },
-    {
-      "Titel": "Hamilton 2",
-      "Franchise": "Hamilton",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H1v2S1f2M._AC_.jpg"
-    },
+    //{
+    //  "Titel": "Ditte & Louise",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A2v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Fluerne på væggen",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Frakkerne End Politiet Tillader",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K2v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Frygten er mit våben",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M2v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Guldkornene",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A1v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Hamilton 1",
+    //  "Franchise": "Hamilton",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H1v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Hamilton 2",
+    //  "Franchise": "Hamilton",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H1v2S1f2M._AC_.jpg"
+    //},
     {
       "Titel": "Hvidsten Gruppen",
       "Version": "DVD",
       "Placering": "Kælder",
       "Image": "https://m.media-amazon.com/images/I/51K1v2S1f2M._AC_.jpg"
     },
+    //{
+    //  "Titel": "Jagten på den sande skat",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M1v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Kollektivet",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A0v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Midsommer",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K0v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Sprængfarlig Bombe",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H9v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Alice i Eventyrland",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K9v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Aristocats",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M9v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Arthur og Minimoyserne",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A8v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Askepot",
+    //  "Franchise": "Askepot",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H8v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Askepot II",
+    //  "Franchise": "Askepot",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H8v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Bambi II",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K8v2S1f2M._AC_.jpg"
+    //},
+
+    //{
+    //  "Titel": "Big Hero 6",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A7v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Biler",
+    //  "Franchise": "Biler",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H7v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Biler 2",
+    //  "Franchise": "Biler",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H7v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Chicken Little",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K7v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "De Tre Musketerer",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M7v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Dinosaur",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A6v2S1f2M._AC_.jpg"
+    //},
+
+    //{
+    //  "Titel": "Ice Age 3",
+    //  "franchise": "Ice Age",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Ice Age 4",
+    //  "franchise": "Ice Age",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Kim Possible",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K5v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Krummerne",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M5v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Lucky Luke",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A4v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Mulan 2",
+    //  "franchise": "Mulan",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K4v2S1f2M._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Pocahontas",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A3v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Peter Pan",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H3v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Ratatouille",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K3v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Robots",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M3v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Scooby-Doo",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51A2v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Shrek 1",
+    //  "franchise": "Shrek",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Shrek 2",
+    //  "franchise": "Shrek",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Shrek 3",
+    //  "franchise": "Shrek",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Shrek Den Sidste Kapitel",
+    //  "franchise": "Shrek",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Tarzan",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51K2v2S1f2N._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Tintin Samleboks",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51M2v2S1f2N._AC_.jpg"
+    //},
+
+    //{
+    //  "Titel": "48 Hours / 48 Timer",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51kP3N1N6SL._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Daredevil (Director's Cut)",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51c+T1V3i8L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Die Hard 4.0",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51iA4X5i33L._AC_.jpg"
+    //},
+    //{
+    //  "Titel": "Dracula 2001",
+    //  "Version": "DVD",
+    //  "Placering": "Kælder",
+    //  "Image": "https://m.media-amazon.com/images/I/51G8K5M5U9L._AC_.jpg"
+    //},
     {
-      "Titel": "Jagten på den sande skat",
+      "Titel": "Ørkenens Sønner: En storm i et glas vand",
+      "Franchise": "Ørkenens Sønner",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M1v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Kollektivet",
+      "Titel": "Ørkenens Sønner: Gå Aldrig Tilbage til en Fuser",
+      "Franchise": "Ørkenens Sønner",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A0v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Mænd der hader kvinder",
+      "Titel": "Ørkenens Sønner: En sang fra de varme lande",
+      "Franchise": "Ørkenens Sønner",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H0v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Midsommer",
+      "Titel": "Ørkenens Sønner: Varm luft i Canal Grande",
+      "Franchise": "Ørkenens Sønner",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K0v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Nattevagten / Nightwatch",
+      "Titel": "Ørkenens Sønner: Et skud i tågen",
+      "Franchise": "Ørkenens Sønner",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M0v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Pigen der legede med ilden",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A9v2S1f2M._AC_.jpg"
+      "Titel": "Den Uundgåelige DVD Boks (Anders Matthesen)",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Sprængfarlig Bombe",
+      "Titel": "Phil Collins: Finally... The First Farewell Tour",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H9v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Alice i Eventyrland",
+      "Titel": "Den Ægte Vare - Live i Cirkusbygningen",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K9v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Aristocats",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M9v2S1f2M._AC_.jpg"
+      "Titel": "Tæskeholdet",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Arthur og Minimoyserne",
+      "Titel": "Robbie Williams: And Through It All - Live 1997-2006",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A8v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Askepot",
-      "Franchise": "Askepot",
+      "Titel": "The Police: Live Ghost in the Machine",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H8v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Askepot II",
-      "Franchise": "Askepot",
+      "Titel": "Grin Med! Det sjoveste fra 80'erne",
+      "Franchise": "DR Show / Grin Med!",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H8v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Bambi II",
+      "Titel": "Grin Med! Det sjoveste fra 60-70'erne",
+      "Franchise": "DR Show / Grin Med!",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K8v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie som Rapunzel",
-      "Barbie": "Barbie",
+      "Titel": "Pallesen-Pilmark Show",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M8v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie i Nøddeknækkeren",
-      "Barbie": "Barbie",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K9P8K1GBL._AC_.jpg"
+      "Titel": "Anders",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie af Svanesøen",
-      "Barbie": "Barbie",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/513Y8V4F5AL._AC_.jpg"
+      "Titel": "Cirkusrevyen 4 DVD Boks",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie: Fairytopia",
-      "Barbie": "Barbie",
+      "Titel": "De Udvalgte",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51E4E7K4RFL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie som Prinsessen og Tiggerpigen",
-      "Barbie": "Barbie",
+      "Titel": "House M.D. - Season 5",
+      "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/518Q9P35FCL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie: Mariposa og hendes sommerfugle-venner",
-      "Barbie": "Barbie",
+      "Titel": "House M.D. - Season 1",
+      "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51J8Z9N5TFL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie og De 12 Dansende Prinsesser",
-      "Barbie": "Barbie",
+      "Titel": "House M.D. - Season 2",
+      "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K1P9R2GBL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie: Magic of Pegasus",
-      "Barbie": "Barbie",
+      "Titel": "House M.D. - Season 3",
+      "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51X5E6R3YFL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie i Et Havfrueeventyr",
-      "Barbie": "Barbie",
+      "Titel": "House M.D. - Season 4",
+      "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H8P4K5GBL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Barbie: Prinsesseskolen",
-      "Barbie": "Barbie",
+      "Titel": "Kriminalkommissær Barnaby - Afsnit 1: Mordene i Badgers Drift",
+      "Franchise": "Midsomer Murders / Barnaby",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M8P9K2GBL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Big Hero 6",
+      "Titel": "Kriminalkommissær Barnaby - Afsnit 31: Fiskerkongen",
+      "Franchise": "Midsomer Murders / Barnaby",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A7v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Biler",
-      "Franchise": "Biler",
+      "Titel": "Midsomer Murders - The Christmas Collection",
+      "Franchise": "Midsomer Murders / Barnaby",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H7v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Biler 2",
-      "Franchise": "Biler",
+      "Titel": "Lewis - Series 1 (Afsnit 1-4)",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H7v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Chicken Little",
+      "Titel": "NCIS - The Third Season (Discs 1 & 2)",
+      "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K7v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "De Tre Musketerer",
+      "Titel": "NCIS - The Third Season (Discs 3 & 4)",
+      "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M7v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Dinosaur",
+      "Titel": "NCIS - The Third Season (Discs 5 & 6)",
+      "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A6v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Gummi Tarzan",
+      "Titel": "NCIS - The Third Season (Discs 7)",
+      "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H6v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "High School Musical",
+      "Titel": "CSI: NY - Temporada 1 (Episodios 1.1 - 1.12)",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K6v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
+    },
+    //-------------------------------------------------------------------------------------
+    {
+      "Titel": "Agatha Christie Poirot - 1ª Temporada Box",
+      "Franchise": "Agatha Christie's Poirot",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Ice Age 3",
-      "franchise": "Ice Age",
+      "Titel": "Poirot - Box 1 til 16",
+      "Franchise": "Agatha Christie's Poirot",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
+    },
+    //-------------------------------------------------------------------------------------
+    {
+      "Titel": "The Beatles Anthology",
+      "Franchise": "The Beatles",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Ice Age 4",
-      "franchise": "Ice Age",
+      "Titel": "Mørket Sænker Sig 1",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M6v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Junglebogen",
-      "franchise": "Junglebogen",
+      "Titel": "Runaway Jury",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A5v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Karate Kid",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H5v2S1f2M._AC_.jpg"
+      "Titel": "Law & Order - Det Første År",
+      "Franchise": "Law & Order",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Junglebogen 2",
-      "franchise": "Junglebogen",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A5v2S1f2M._AC_.jpg"
+      "Titel": "Star Trek Voyager - Season 1",
+      "Franchise": "Star Trek",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Kim Possible",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K5v2S1f2M._AC_.jpg"
+      "Titel": "24 - Season 1-8 & Redemption",
+      "Franchise": "24",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Krummerne",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M5v2S1f2M._AC_.jpg"
+      "Titel": "Las aventuras de Sherlock Holmes (13 Aventuras)",
+      "Franchise": "Sherlock Holmes",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Lucky Luke",
+      "Titel": "Sherlock Holmes vender tilbage",
+      "Franchise": "Sherlock Holmes",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A4v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Mads og Mikkel ",
-      "franchise": "Mads og Mikkel",
+      "Titel": "The Adventures of Sherlock Holmes Vol. 1 ",
+      "Franchise": "Sherlock Holmes",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H4v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Mads og Mikkel 2",
-      "franchise": "Mads og Mikkel",
+      "Titel": "The Adventures of Sherlock Holmes Vol. 2",
+      "Franchise": "Sherlock Holmes",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H4v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Mulan ",
-      "franchise": "Mulan",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K4v2S1f2M._AC_.jpg"
+      "Titel": "Star Trek: The Next Generation - Season 1 til 7",
+      "Franchise": "Star Trek",
+      "Version": "DVD Box (Steelbook)",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Mulan 2",
-      "franchise": "Mulan",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K4v2S1f2M._AC_.jpg"
+      "Titel": "Star Trek: Deep Space Nine - Season 1 til 7",
+      "Franchise": "Star Trek",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Narnia: Løven, Heksen og Garderobeskabet",
-      "franchise": "Narnia",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2M._AC_.jpg"
+      "Titel": "The Ultimate Babylon 5 Collection",
+      "Franchise": "Babylon 5",
+      "Version": "DVD Box",
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Narnia: Prins Caspian",
-      "franchise": "Narnia",
+      "Titel": "Ud at køre med de skøre 1",
+      "Franchise": "Ud at køre med de skøre",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M4v2S1f2M._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Pocahontas",
+      "Titel": "Ud at køre med de skøre 2",
+      "Franchise": "Ud at køre med de skøre",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A3v2S1f2N._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Peter Pan",
+      "Titel": "10 Fod Under",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H3v2S1f2N._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Ratatouille",
+      "Titel": "Tiger på spring, drage i skjul",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K3v2S1f2N._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Robots",
+      "Titel": "To Hell and Back",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M3v2S1f2N._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Scooby-Doo",
+      "Titel": "Terminator 2: Judgment Day",
+      "Franchise": "Terminator",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51A2v2S1f2N._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Shrek 1",
-      "franchise": "Shrek",
+      "Titel": "Terminator 3: Rise of the Machines",
+      "Franchise": "Terminator",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Shrek 2",
-      "franchise": "Shrek",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
-    },
-    {
-      "Titel": "Shrek 3",
-      "franchise": "Shrek",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
-    },
-    {
-      "Titel": "Shrek Den Sidste Kapitel",
-      "franchise": "Shrek",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51H2v2S1f2N._AC_.jpg"
-    },
-    {
-      "Titel": "Tarzan",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51K2v2S1f2N._AC_.jpg"
-    },
-    {
-      "Titel": "Tintin Samleboks",
-      "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51M2v2S1f2N._AC_.jpg"
-    },
-    {
-      "Titel": "Smølferne / Smurfs",
-      "Franchise": "Smølferne",
+      "Titel": "Terminator Salvation",
+      "Franchise": "Terminator",
       "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/81D8M5P-2YL._AC_SL1500_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Smølferne 2",
-      "Franchise": "Smølferne",
+      "Titel": "Tess",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Texas Rangers",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Tombstone",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Traitor",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Transformers",
+      "Franchise": "Transformers",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Transformers: Revenge of the Fallen",
+      "Franchise": "Transformers",
       "Version": "Blu-ray",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/81G-nE02yLL._AC_SL1500_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "48 Hours / 48 Timer",
+      "Titel": "The Transporter",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51kP3N1N6SL._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Daredevil (Director's Cut)",
+      "Titel": "Tremors 2: Aftershocks",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51c+T1V3i8L._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Die Hard 4.0",
+      "Titel": "The Triangle",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51iA4X5i33L._AC_.jpg"
+      "Placering": "Stue Pejs"
     },
     {
-      "Titel": "Dracula 2001",
+      "Titel": "Trucks",
       "Version": "DVD",
-      "Placering": "Kælder",
-      "Image": "https://m.media-amazon.com/images/I/51G8K5M5U9L._AC_.jpg"
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "True Romance",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "The Tuxedo",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Under Angreb - The Siege",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Ultraviolet",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Under Pressure",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Under Suspicion",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "World Invasion: Battle Los Angeles",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Underworld",
+      "Franchise": "Underworld",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Underworld: Evolution",
+      "Franchise": "Underworld",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    //{
+    //  "Titel": "Snake Eyes",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Snakes on a Plane",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Slaget om England & Broen ved Arnhem",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Soldier",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Solomon Kane",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "The Sound of Music",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Spillet er ude",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Spy Game",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Trek (2-Disc Special Edition)",
+    //  "Franchise": "Star Trek",
+    //  "Version": "Blu-ray",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Trek Into Darkness",
+    //  "Franchise": "Star Trek",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Trek: First Contact",
+    //  "Franchise": "Star Trek",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Trek: Insurrection",
+    //  "Franchise": "Star Trek",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Spider-Man",
+    //  "Franchise": "Marvel",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Spider-Man 2",
+    //  "Franchise": "Marvel",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "The Amazing Spider-Man 1-2",
+    //  "Franchise": "Marvel",
+    //  "Version": "DVD Box",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Spider-Man 3",
+    //  "Franchise": "Marvel",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Starship Troopers",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Trek: Nemesis",
+    //  "Franchise": "Star Trek",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Trek V: The Voyage Home",
+    //  "Franchise": "Star Trek",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Trek Beyond",
+    //  "Franchise": "Star Trek",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Wars: Episode I - The Phantom Menace",
+    //  "Franchise": "Star Wars",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Wars: Episode II - Attack of the Clones",
+    //  "Franchise": "Star Wars",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Wars: Episode III - Revenge of the Sith",
+    //  "Franchise": "Star Wars",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Wars: Episode IV - A New Hope",
+    //  "Franchise": "Star Wars",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    //{
+    //  "Titel": "Star Wars: Episode V - The Empire Strikes Back",
+    //  "Franchise": "Star Wars",
+    //  "Version": "DVD",
+    //  "Placering": "Stue Pejs"
+    //},
+    {
+      "Titel": "Star Wars: Episode VI - Return of the Jedi",
+      "Franchise": "Star Wars",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Star Wars: The Force Awakens",
+      "Franchise": "Star Wars",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "State of Play",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "The Basketball Diaries / Streets of New York",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "The Substitute",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "The Sum of All Fears",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Supergirl",
+      "Franchise": "Superman / DC",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Superman: The Movie",
+      "Franchise": "Superman / DC",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Superman II",
+      "Franchise": "Superman / DC",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Superman III",
+      "Franchise": "Superman / DC",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Superman Returns",
+      "Franchise": "Superman / DC",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Supernova",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Sword of Honour",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Swordfish",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Tai-Pan",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Taken",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "The Taking of Pelham 1 2 3",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Telemarkens Helte",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Terminal Invasion",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Terminator 2: Judgment Day",
+      "Franchise": "Terminator",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Terminator Salvation",
+      "Franchise": "Terminator",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Thor",
+      "Franchise": "Marvel",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "That Thing You Do!",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "tolken - The Interpreter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Three Kings",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Unbreakable",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Vampire in Brooklyn",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Vejen til Perdition",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Vidocq",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Voyage of the Damned",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Winter's Bone",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Watchmen",
+      "Franchise": "DC",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Way of the Dragon",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Wimbledon",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Van Helsing",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Willow",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Wing Commander",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Welcome to Collinwood",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "White House Down",
+      "Franchise": "____ Down",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "World Trade Center",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "X-Men",
+      "Franchise": "X-Men",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Ørnen er landet",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "X-Men: First Class",
+      "Franchise": "X-Men",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "The Wolverine",
+      "Franchise": "X-Men",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Wonder Woman",
+      "Franchise": "DC",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "X-Men 2",
+      "Franchise": "X-Men",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "X-Men: The Last Stand",
+      "Franchise": "X-Men",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "X-Men Origins: Wolverine",
+      "Franchise": "X-Men",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "X-Men: Apocalypse",
+      "Franchise": "X-Men",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "XxX & XxX 2",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "You Kill Me",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Hansel & Gretel: Witch Hunters",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Xanadu",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "For Queen And Country",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Amerikanski Blues",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Murder in Mind",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Show Down",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Nemesis (Olivier Gruner)",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Double Dragon the movie",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Flight 174",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Blessed assurance",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "Hijacked Flight 285",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "3069 Dage",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "On the border",
+      "Version": "DVD",
+      "Placering": "Kælder"
+    },
+    {
+      "Titel": "",
+      "Version": "",
+      "Placering": " "
+    },
+    {
+      "Titel": "",
+      "Version": "",
+      "Placering": " "
+    },
+
+
+
+
+
+
+
+    {
+      "Titel": "Whitehall II",
+      "Franchise": "Whitehall II",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og De Vises Sten",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og Hemmelighedernes Kammer",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og Fangen fra Azkaban",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og Flammernes Pokal",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og Føniksordenen",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og Halvblodsprinsen",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og Dødsregalierne - Del 1",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Harry Potter og Dødsregalierne - Del 2",
+      "Franchise": "Harry Potter",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Hobbitten: En Uventet Rejse",
+      "Franchise": "Hobbitten",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Hobbitten: Dragen Smaugs Ødemark",
+      "Franchise": "Hobbitten",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Hobbitten: Femhæreslaget",
+      "Franchise": "Hobbitten",
+      "Version": "Blu-ray",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Ringenes Herre: Eventyret om Ringen",
+      "Franchise": "Ringenes Herre",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Ringenes Herre: De To Tårne",
+      "Franchise": "Ringenes Herre",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
+    },
+    {
+      "Titel": "Ringenes Herre: Kongen Vender Tilbage",
+      "Franchise": "Ringenes Herre",
+      "Version": "DVD",
+      "Placering": "Stue Pejs"
     }
+
   ]
 }
