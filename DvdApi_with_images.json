@@ -1607,14 +1607,14 @@
       "Image": ""
     },
     {
-      "Titel": "Fantastic 4",
+      "Titel": "Fantastic Four",
       "Franchise": "Marvel",
       "Version": "DVD",
       "Placering": "Kælder",
       "Image": ""
     },
     {
-      "Titel": "Fantastic 4",
+      "Titel": "Fantastic Four",
       "Franchise": "Marvel",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -1796,6 +1796,7 @@
     },
     {
       "Titel": "Grease (Special Udgave)",
+      "TitelEn": "Grease",
       "Franchise": "Grease",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -3681,13 +3682,15 @@
       "Titel": "Den Travle By: Boblemysteriet",
       "Franchise": "Den Travle By",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.laserdisken.dk/billeder/forsidealm/12479479443201923.jpg"
     },
     {
       "Titel": "Den Travle By: Mysteriet med den forsvundne æble",
       "Franchise": "Den Travle By",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.laserdisken.dk/billeder/forsidestor/12479474623188732.jpg"
     },
     {
       "Titel": "Byggemand Bob: Bobs Fødselsdag og 4 andre fortællinger",
@@ -3704,60 +3707,70 @@
       "Titel": "Brum og Lufthavnseventyret (Vol. 1)",
       "Franchise": "Brum",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.videoland.dk/cover/1060202256370/brum-1-lufthavnseventyret.jpg"
     },
     {
       "Titel": "Babar's Eventyrlige Verden (Vol. 1)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Babar's Eventyrlige Verden (Vol. 2)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Babar's Eventyrlige Verden (Vol. 3)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Babar's Eventyrlige Verden (Vol. 4)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Babar: Gaven (Vol. 5)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Babar: Imellem Venner (Vol. 6)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Babar: Tour De Celesteville (Vol. 7)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Babar: Vagten Fordobles (Vol. 8)",
       "Franchise": "Babar",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": ""
     },
     {
       "Titel": "Thomas og Hans Venner: Fremad og Bagud",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.videoland.dk/cover/1060202109425/thomas-vennerne-1-fremat-og-bagud.jpg"
     },
     {
       "Titel": "Barbapapa: Jorden Rundt (Vol. 1)",
@@ -4023,7 +4036,7 @@
       "Franchise": "Disney Pixar / WALL-E",
       "Version": "DVD",
       "Placering": "Kælder",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UY2048_.jpg"
+      "Image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UY2048_.jpg"
     },
     {
       "Titel": "Yogi Bear",
@@ -4039,67 +4052,78 @@
       "Titel": "TMNT: Musernes Angreb (Vol. 1)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://retrohygge.dk/cdn/shop/files/e05240ed-de06-478f-bf88-287392b4fe81-front.jpg?v=1774557479&width=1200"
     },
     {
       "Titel": "TMNT: Mød Casey Jones (Vol. 2)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/I/51Qf83rjVbL._AC_UF894,1000_QL80_.jpg"
     },
     {
       "Titel": "TMNT: Usynlighedens Vej (Vol. 3)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.laserdisken.dk/billeder/forsidestor/1068308549114202.jpg"
     },
     {
       "Titel": "TMNT: Shredder Slår Til (Vol. 4)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/I/510+i4uy+sL.jpg"
     },
     {
       "Titel": "TMNT: Historier fra Undergrunden (Vol. 5)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://m.media-amazon.com/images/I/51cD6kRhbVL._AC_UF894,1000_QL80_.jpg"
     },
     {
       "Titel": "TMNT: Tidsrejsen",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "Blu-ray",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.dvdnetto.dk/cover/1060202828023/teenage-mutant-ninja-turtles-tidsrejsen-5.jpg"
     },
     {
       "Titel": "TMNT: How It All Began (Vol. 1)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
+      "Image": "https://www.laserdisken.dk/billeder/forsidealm/11309563441383372.jpg",
       "Placering": "Kælder"
     },
     {
       "Titel": "TMNT: The Killer Pizzas / Enter the Fly / Return of the Shredder (Vol. 2)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://items-media.reshopper.com/2025/08/26/379be2c2-2e14-4d74-8b81-9b3cfb983b1b/900x1200.webp"
     },
     {
-      "Titel": "TMNT: Punk Frogs / New York's Shinest / Enter the Shredder (Vol. 3)",
+      "Titel": "TMNT: Punk Frogs / New York's Shiniest / Enter the Shredder (Vol. 3)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.kaptenkrok.se/wp-content/uploads/2022/11/DVDBarn127_5661.jpg"
     },
     {
       "Titel": "TMNT: The Four Musketurtles / Enter Rat King / A Thing About Rats  (Vol. 4)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://d3c3ws7andfulm.cloudfront.net/covers/25bae0da-04d6-44e4-975e-b26e3d423741.jpg"
     },
     {
       "Titel": "TMNT: Attack of Big Macc / The Cat Woman From... / Teenagers From Dimension X (Vol. 5)",
       "Franchise": "Teenage Mutant Ninja Turtles",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://d3dnwnveix5428.cloudfront.net/eyJrZXkiOiJzdG9yZV9mNWVjMzYzNC1iZjMwLTQ0NjgtYTkxMy0zZmVjZWY0NGFlNjNcL2ltYWdlc1wvS3lPTkVURGZORDRkYWZjMTcyODMxOTQyOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDI0LCJoZWlnaHQiOjEwMjQsImZpdCI6Imluc2lkZSJ9fX0="
     },
     {
       "Titel": "Ali Baba",
@@ -4436,25 +4460,29 @@
       "Titel": "Las aventuras de Sherlock Holmes (13 Aventuras)",
       "Franchise": "Sherlock Holmes",
       "Version": "DVD Box",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/I/81LFXmFUCTL.jpg"
     },
     {
       "Titel": "Sherlock Holmes vender tilbage",
       "Franchise": "Sherlock Holmes",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://www.laserdisken.dk/billeder/forsidealm/12066970734106100.jpg"
     },
     {
       "Titel": "The Adventures of Sherlock Holmes Vol. 1 ",
       "Franchise": "Sherlock Holmes",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": ""
     },
     {
       "Titel": "The Adventures of Sherlock Holmes Vol. 2",
       "Franchise": "Sherlock Holmes",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": ""
     },
     {
       "Titel": "Star Trek: The Next Generation - Season 1 til 7",
