@@ -1293,7 +1293,7 @@
       "Image": ""
     },
     {
-      "Titel": "Dinosaurerne",
+      "Titel": "Dinosaur",
       "Franchise": "Disney",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -1395,6 +1395,7 @@
     },
     {
       "Titel": "Ice Age 3: Dinosauerne Kommer",
+      "TitleEn": "Ice Age: Dawn of the Dinosaurs",
       "Franchise": "Ice Age",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -2497,6 +2498,7 @@
     },
     {
       "Titel": "Indiana Jones og Den Sidste Korstog",
+      "TitelEn": "Indiana Jones and the Last Crusade",
       "Franchise": "Indiana Jones",
       "Version": "DVD",
       "Placering": "Kælder"
@@ -2509,6 +2511,7 @@
     },
     {
       "Titel": "Indiana Jones og Fordømmelsens Tempel",
+      "TitelEn": "Indiana Jones and the Temple of Doom",
       "Franchise": "Indiana Jones",
       "Version": "DVD",
       "Placering": "Kælder"
@@ -2706,21 +2709,21 @@
       "Placering": "Kælder"
     },
     {
-      "Titel": "The Lord of the Rings: Fellowship of the Ring",
+      "Titel": "The Lord of the Rings: The Fellowship of the Ring",
       "Franchise": "The Lord of the Rings",
       "Version": "DVD",
       "Placering": "Kælder",
       "Image": ""
     },
     {
-      "Titel": "The Lord of the Rings: Two Towers",
+      "Titel": "The Lord of the Rings: The Two Towers",
       "Franchise": "The Lord of the Rings",
       "Version": "DVD",
       "Placering": "Kælder",
       "Image": ""
     },
     {
-      "Titel": "The Lord of the Rings: Return of the King",
+      "Titel": "The Lord of the Rings: The Return of the King",
       "Franchise": "The Lord of the Rings",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -2838,6 +2841,7 @@
     },
     {
       "Titel": "Askepot",
+      "TitleEn": "Cinderella",
       "Franchise": "Disney / Askepot",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -2845,6 +2849,7 @@
     },
     {
       "Titel": "Askepot II",
+      "TitleEn": "Cinderella II: Dreams Come True",
       "Franchise": "Disney / Askepot",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -2852,12 +2857,14 @@
     },
     {
       "Titel": "Atlantis: Det Forsvundne Rige",
+      "TitleEn": "Atlantis: The Lost Empire",
       "Franchise": "Disney / Atlantis",
       "Version": "DVD",
       "Placering": "Kælder"
     },
     {
       "Titel": "Atlantis 2: Milonas Hævn",
+      "TitleEn": "Atlantis: Milo's Return",
       "Franchise": "Disney / Atlantis",
       "Version": "DVD",
       "Placering": "Kælder"
@@ -2989,6 +2996,7 @@
     },
     {
       "Titel": "Biler",
+      "TitleEn": "Cars",
       "Franchise": "Disney Pixar / Biler",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -2996,6 +3004,7 @@
     },
     {
       "Titel": "Biler 2",
+      "TitleEn": "Cars 2",
       "Franchise": "Disney Pixar / Biler",
       "Version": "DVD",
       "Placering": "Kælder",
@@ -3003,6 +3012,7 @@
     },
     {
       "Titel": "Bjørne Brødre",
+      "TitleEn": "Brother Bear",
       "Franchise": "Disney / Bjørne Brødre",
       "Version": "DVD",
       "Placering": "Kælder"
@@ -3753,19 +3763,22 @@
       "Titel": "Barbapapa: Jorden Rundt (Vol. 1)",
       "Franchise": "Barbapapa",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.videoland.dk/cover/1060202482960/barbapapa-jorden-rundt-3-blandt-lamaer-bofler-og-en-tornado-tigre-og-monsuner-3.jpg"
     },
     {
       "Titel": "Barbapapa: Jorden Rundt (Vol. 2)",
       "Franchise": "Barbapapa",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.videoland.dk/cover/1060202482960/barbapapa-jorden-rundt-3-blandt-lamaer-bofler-og-en-tornado-tigre-og-monsuner-3.jpg"
     },
     {
       "Titel": "Barbapapa: Jorden Rundt (Vol. 3)",
       "Franchise": "Barbapapa",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.videoland.dk/cover/1060202482960/barbapapa-jorden-rundt-3-blandt-lamaer-bofler-og-en-tornado-tigre-og-monsuner-3.jpg"
     },
     {
       "Titel": "Flugten fra Hønsegården",
@@ -3953,6 +3966,7 @@
     },
     {
       "Titel": "Tarzan 2",
+      "TitleEn": "Tarzan II",
       "Franchise": "Disney / Tarzan",
       "Version": "DVD",
       "Placering": "Kælder"
@@ -3970,6 +3984,7 @@
     },
     {
       "Titel": "Tornerose",
+      "TitleEn": "The Sleeping Beauty",
       "Franchise": "Disney",
       "Version": "DVD",
       "Placering": "Kælder"
@@ -3998,7 +4013,7 @@
       "Placering": "Kælder"
     },
     {
-      "Titel": "Vaiana (Moana)",
+      "Titel": "Moana",
       "Franchise": "Disney / Moana",
       "Version": "Blu-ray",
       "Placering": "Kælder"
@@ -4007,7 +4022,8 @@
       "Titel": "WALL-E",
       "Franchise": "Disney Pixar / WALL-E",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UY2048_.jpg"
     },
     {
       "Titel": "Yogi Bear",
@@ -4104,12 +4120,14 @@
     },
     {
       "Titel": "Bernard og Bianca",
+      "TitelEn": "The Rescuers",
       "Franchise": "Disney / The Rescuers",
       "Version": "DVD",
       "Placering": "Kælder"
     },
     {
       "Titel": "Bernard og Bianca i SOS fra Australien",
+      "TitelEn": "The Rescuers Down Under",
       "Franchise": "Disney / The Rescuers",
       "Version": "DVD",
       "Placering": "Kælder"
@@ -4146,31 +4164,36 @@
       "Titel": "Smølferne: Smølfestærk Selvtillid",
       "Franchise": "The Smurfs / Smølferne",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrtYMjjYF3BRYvwihWeUIMOhtRhYJLZcFZXOJYvyOpA&s"
     },
     {
       "Titel": "Smølferne: Azraels Klokkeklang ",
       "Franchise": "The Smurfs / Smølferne",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.filmmarked.dk/25558-60411-large/smlferne-2-azraels-klokkeklang.jpg"
     },
     {
       "Titel": "Smølferne: Den Utroligt Skrumpende Troldmand",
       "Franchise": "The Smurfs / Smølferne",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://jackmusic.dk/products/13919-panda_thickbox_default/smolferne-vol-3-den-utroligt-skrumpende-troldmand-dvd-brugt.jpg"
     },
     {
-      "Titel": "Smølferne: Et Kældedyr Til Babysmølf",
+      "Titel": "Smølferne: Et Kæledyr Til Babysmølf",
       "Franchise": "The Smurfs / Smølferne",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://www.filmmarked.dk/25560-76092-thickbox/smlferne-4-et-kledyr-til-babysmlf.jpg"
     },
     {
       "Titel": "Smølferne: St. Smølf og Dragen",
       "Franchise": "The Smurfs / Smølferne",
       "Version": "DVD",
-      "Placering": "Kælder"
+      "Placering": "Kælder",
+      "Image": "https://shop101035.sfstatic.io/upload_dir/shop/images/_thumbs/6_smlferne.w1200.jpg"
     },
 
 
@@ -4278,25 +4301,29 @@
       "Titel": "House M.D. - Season 1",
       "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/M/MV5BMjgxYjAwNmMtYTAwZC00YmQxLWJlOTMtMWM0NGJmNDE0YmI2XkEyXkFqcGc@._V1_FMjpg_UX832_.jpg"
     },
     {
       "Titel": "House M.D. - Season 2",
       "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://resizing.flixster.com/QF5KbTG9sxtUjG5lmydV00vpUSA=/164x246/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7892175_b_v11_ac.jpg"
     },
     {
       "Titel": "House M.D. - Season 3",
       "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://upload.wikimedia.org/wikipedia/en/6/6d/HouseMD-s3-US-DVD.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
     },
     {
       "Titel": "House M.D. - Season 4",
       "Franchise": "House M.D.",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/M/MV5BZWMyZjQ0MGMtZTFkOC00OTg0LThkNzktMTg5N2ZkYzg0MThjXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg"
     },
     {
       "Titel": "Kriminalkommissær Barnaby - Afsnit 1: Mordene i Badgers Drift",
@@ -4325,25 +4352,29 @@
       "Titel": "NCIS - The Third Season (Discs 1 & 2)",
       "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/I/91CJnGl1jLL.jpg"
     },
     {
       "Titel": "NCIS - The Third Season (Discs 3 & 4)",
       "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/I/91CJnGl1jLL.jpg"
     },
     {
       "Titel": "NCIS - The Third Season (Discs 5 & 6)",
       "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/I/91CJnGl1jLL.jpg"
     },
     {
       "Titel": "NCIS - The Third Season (Discs 7)",
       "Franchise": "NCIS",
       "Version": "DVD",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/I/91CJnGl1jLL.jpg"
     },
     {
       "Titel": "CSI: NY - Temporada 1 (Episodios 1.1 - 1.12)",
@@ -4392,7 +4423,8 @@
       "Titel": "Star Trek Voyager - Season 1",
       "Franchise": "Star Trek",
       "Version": "DVD Box",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/M/MV5BMmM2YjBjYzItYmFlOC00MDllLWJiOTQtNjY0MGY5NWI1MDFmXkEyXkFqcGc@._V1_FMjpg_UY3508_.jpg"
     },
     {
       "Titel": "24 - Season 1-8 & Redemption",
@@ -4434,7 +4466,8 @@
       "Titel": "Star Trek: Deep Space Nine - Season 1 til 7",
       "Franchise": "Star Trek",
       "Version": "DVD Box",
-      "Placering": "Stue Pejs"
+      "Placering": "Stue Pejs",
+      "Image": "https://m.media-amazon.com/images/I/81blfXW86IL.jpg"
     },
     {
       "Titel": "The Ultimate Babylon 5 Collection",
@@ -4627,6 +4660,7 @@
     },
     {
       "Titel": "Superman: The Movie",
+      "TitelEn": "Superman",
       "Franchise": "Superman / DC",
       "Version": "DVD",
       "Placering": "Stue Pejs"
@@ -4830,6 +4864,7 @@
     },
     {
       "Titel": "X-Men 2",
+      "TitelEn": "X2",
       "Franchise": "X-Men",
       "Version": "DVD",
       "Placering": "Stue Pejs"
